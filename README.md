@@ -44,9 +44,25 @@ Make a new section under [Models](#models) below for each new person. Title it w
 | Topics                               | Knight | Other models                  | Demos |
 |--------------------------------------|--------|-------------------------------|-------|
 | Motion, Velocity, Acceleration       | Ch. 1  |                               |       |
-| 1D Kinematics, constant acceleration | Ch. 2  |                               |       |
+| 1D Kinematics                        | Ch. 2  |                               |       |
 | Vectors                              | Ch. 3  |                               |       |
-| Astronomy                            | Ch. 8  | [Qiudong Wang](#qiudong-wang) |       |
+| 2D kinematics                        | Ch. 4  | | |
+| Force and Motion, Newton's 1st and 2nd laws | Ch. 5 | | |
+| Equilibrium, Mass, Weight, Gravity, Friction, Drag, motion along a line | Ch. 6 | | |
+| Newton's third law | Ch. 7 | | |
+| Dynamics in a plane | Ch. 8 | | |
+| Impulse and momentum | Ch. 9 | | |
+| Energy | Ch. 10 | | |
+| Work | Ch. 11 | | |
+| Rotation of a rigid body | Ch. 12 | | |
+| Newton's theory of Gravity | Ch. 13 | [Qiudong Wang](#qiudong-wang) |       |
+| Oscillations | Ch. 14 | | |
+| Fluids and elasticity | Ch. 15 | | |
+| Macroscopic description of matter | Ch. 16 | | |
+| Work, heat, 1st law of thermodynamics | Ch. 17 | | |
+| Micro/macro connection for gas/thermo, entropy, 2nd law | Ch. 18 | | |
+| Heat engines and refrigerators | Ch. 19 | | |
+
 
 # Models
 
