@@ -34,6 +34,8 @@ Make a new section under [Models](#models) below for each new person. Title it w
 
     [Emmy Noether](#emmy-noether)
 
+**NOTE** This page itself needs to be double-checked against
+  wikipedia, etc. for plagairism and/or to add cites.
 
 
 | Topics                               | Knight | Other models                  | Demos |
