@@ -22,11 +22,13 @@ this better.
 
 Some details:
 
-* Right now, my class uses Knight's 3rd edition. I'd love a PR to add
-  chapters/sections from other texts!
-* Comments on organization/structure are welcome.
-* I'm likely to have this do double-duty for demos.
-* Use the [Table Generator](http://www.tablesgenerator.com/markdown_tables) to generate tables easily. It's OK if the formatting gets ugly.
+Right now, my class uses Knight's 3rd edition. I'd love a PR to add chapters/sections from other texts!
+
+Comments on organization/structure are welcome.
+
+I'm likely to have this do double-duty for demos.
+
+Use the [Table Generator](http://www.tablesgenerator.com/markdown_tables) to generate tables easily. It's OK if the formatting gets ugly.
 
 Make a new section under [Models](#models) below for each new person. Title it with their name, including spaces. You can then link to that section with the following syntax: for Emmy Noether, use:
 
