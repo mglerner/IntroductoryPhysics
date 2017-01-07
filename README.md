@@ -28,7 +28,7 @@ Some details:
 * I'm likely to have this do double-duty for demos.
 * Use the [Table Generator](http://www.tablesgenerator.com/markdown_tables) to generate tables easily. It's OK if the formatting gets ugly.
 
-* Make a new section under [Models](#models) below for each new person. Title it with their name, including spaces. You can then link to that section with the following syntax: for Emmy Noether, use:
+Make a new section under [Models](#models) below for each new person. Title it with their name, including spaces. You can then link to that section with the following syntax: for Emmy Noether, use:
 
     [Emmy Noether](#emmy-noether)
 
