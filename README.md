@@ -26,8 +26,8 @@ Some details:
   chapters/sections from other texts!
 * Comments on organization/structure are welcome.
 * I'm likely to have this do double-duty for demos.
-* Use the [Table Generator](http://www.tablesgenerator.com/markdown_tables) to generate tables easily.
-* Use the syntax from [here](http://stackoverflow.com/questions/2822089/how-to-link-to-part-of-the-same-document-in-markdown) to link to other sections
+* Use the [Table Generator](http://www.tablesgenerator.com/markdown_tables) to generate tables easily. It's OK if the formatting gets ugly.
+* Use the syntax from [here](http://stackoverflow.com/questions/2822089/how-to-link-to-part-of-the-same-document-in-markdown) to link to other sections. Just add a new section under [Models](#models) with each new person, and make a link.
 
 | Topics                               | Knight | Other models                  | Demos |
 |--------------------------------------|--------|-------------------------------|-------|
