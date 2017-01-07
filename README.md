@@ -14,9 +14,12 @@ poked around the internet, but couldn't find such a syllabus. So, as
 part of my intro class, one of the assignments is essentially "find an
 example of a Physicist who doesn't look like Newton, write something
 about that person, include a picture if you can, and figure out where
-that person could have been included in our syllabus." We're putting
-this on github so that (1) it can be a resource for others (2) people
-can send in
+that person could have been included in our syllabus." The assignment
+gets the full weight of any other weekly assignment. I'm putting this
+on github (1) so that it can be a resource for others (ideally, you'd
+be able to say "oh, I'm covering Knight Chapter 3, Section 2 today
+... here's a quick PPT slide I can slip in with my clicker questions")
+(2) so that people can send in
 [PRs](https://help.github.com/articles/about-pull-requests/) to make
 this better.
 
