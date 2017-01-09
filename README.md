@@ -80,9 +80,6 @@ Henrietta Swan Leavitt, whose job was documenting the characteristics of “Ceph
 ## Dr. Sandra Faber
 Dr. Sandra Faber, an astronomer who (along with Dr. Robert Jackson) develop the Faber-Jackson relation, which established a relation between the brightness of stars in a galaxy and that galaxy’s distance from earth.  This relation takes into account the “tilt” of the galaxy with respect to the line of sight from the earth to that galaxy.  She also designed the Keck observatory on Mauna Kea, a mountain in Hawaii.
 
-## Richard Feynman
-Richard Feynman, a US theoretical Physicist who developed the mathematical technique used to make quantum predictions in fundamental particle physics.  
-
 ## Whisoh Lee
 Whisoh Lee, a Korean theoretical physicist worked on fundamental particle physics, and whose work influenced Abdus Salam’s work on electro-weak theory as well as the developing the basis for the Higg’s mechanism.
 
