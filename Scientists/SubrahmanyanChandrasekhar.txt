@@ -1,0 +1,12 @@
+# Name
+Subrahmanyan Chandrasekhar
+
+# Textbook
+Knight, 3rd edition, Chapter 13
+
+# Description
+
+Indian physicist, worked on wide range of astrophysical
+problems. Developed a theory about the structure of white dwarf stars,
+placed upper limit on mass of white dwarf stars.
+

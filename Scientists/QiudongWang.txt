@@ -1,0 +1,10 @@
+# Name
+Qiudong Wang
+
+# Textbook
+Knight, 3rd edition, Chapter 13
+
+# Description
+Qiudong Wang, mathematical physicist, found an infinite-series
+solution to the generalized “n-body” problem, which is important in
+predicting the motions of planetary systems.
