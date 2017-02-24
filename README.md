@@ -257,7 +257,7 @@ Here's the current version, which obviously needs more scientists added:
       <th>2</th>
       <th></th>
       <td>Margaret Murnane</td>
-      <td><img src="https://jila.colorado.edu/kmlabs/sites/default/files/styles/200_image/public/images/bios/Margaret_Murnane_portrait.jpg?itok=jY-_AF2Q" width="1000"></td>
+      <td><img src="https://jila.colorado.edu/kmlabs/sites/default/files/styles/200_image/public/images/bios/Margaret_Murnane_portrait.jpg?itok=jY-_AF2Q"></td>
       <td>Margaret Murnane is an optical physicist at the University of Colorado. She has built "the fastest things that humans have ever created" lasers which can flash for "ten quadrillionths of a second"! Her background includes the fact that "physics was [her] worst subject in high school" but she dreamed of being a physicist because she loved the "excitement of discovery." She and her husband now run a lab at the University of Colorado. In the lab, she records "some of the fastest motions in our natural world." Her lasers can capture the movement of electrons. Her newest laser and x-ray beams can flash for less than 0.00000000000000001 seconds. Talk about "in the blink of an eye!" She is able to pass on excitement and knowledge to students. Scientists use her lasers which are based on her titanium-sapphire design to study a wide range of phenomena (chemical reactoins, etc.).</td>
       <td><a href="https://en.wikipedia.org/wiki/Margaret_Murnane">Link1</a> <a href="https://jila.colorado.edu/kmlabs/bio/murnane">Link2</a></td>
     </tr>
