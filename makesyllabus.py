@@ -107,5 +107,5 @@ def maketextbook(fname):
     cols = cols + [i for i in textbook.columns.tolist() if i not in cols]
     textbook = textbook[cols]
     textbook = textbook.sort_values(by=['Chapter','Section','Topics','Description','Name'],
-                                    ascending=[True, True, False, False, False])
+                                    ascending=[True, True, True, False, False])
     return textbook.fillna('').set_index(['Chapter', 'Section','Topics'])
