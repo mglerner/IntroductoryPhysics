@@ -37,8 +37,10 @@ lives in a different file. Here is an
   (either via email <mglerner@gmail.com> or as a PR), I'll gladly reformat them to fix any
   small mistakes, so don't let that stop you!
 
-Please cite your sources (Wikipedia is OK!), and feel free to quote
-explicitly, but don't plagiarize!
+* Please cite your sources (Wikipedia is OK!), and feel free to quote
+  explicitly, but don't plagiarize!
+
+* Including links to pictures really helps!
 
 The python script here autogenerates annotated tables of contents!
 Here's the current version, which obviously needs more scientists added:
