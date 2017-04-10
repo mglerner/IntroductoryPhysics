@@ -1,0 +1,12 @@
+# Name
+Lene Hau
+# Textbook
+Knight, 3rd edition, Chapter 40
+# Contributors
+
+
+# Description
+Lene Vestergaard Hau (born November 13, 1959 in Vejle, Denmark) is a Danish physicist. In 1999, she led a Harvard University team who, by use of a Bose-Einstein condensate, succeeded in slowing a beam of light to about 17 metres per second, and, in 2001, was able to stop a beam completely. Later work based on these experiments led to the transfer of light to matter, then from matter back into light,[2] a process with important implications for quantum encryption and quantum computing. More recent work has involved research into novel interactions between ultracold atom and nanoscopic scale systems. In addition to teaching physics and applied physics, she has taught Energy Science at Harvard,[3] involving photovoltaic cells, nuclear power, batteries, and photosynthesis
+
+# Sources
+https://en.wikipedia.org/wiki/Lene_Hau
