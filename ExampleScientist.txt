@@ -4,6 +4,8 @@ Margaret Murnane
 Knight, 3rd edition, Chapter 32, section 2
 # Textbook
 Halliday Resnick and Walker, 6th edition, Chapter 6
+#Contributors
+You can put your name here if you'd like it to be public, or leave it out if not!
 
 # Description
 Margaret Murnane is an optical physicist at the University of
