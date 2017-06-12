@@ -625,6 +625,13 @@ free to add them!
 
 # Scientists
 
+## En'hedu'anna
+
+Somebody needs to include her! The first scientist we have a record of
+a is a Sumerian woman astronomer! Here are
+[some](http://womeninastronomy.blogspot.com/2013/05/enheduanna-our-first-great-scientist.html)
+[pointers](https://en.wikipedia.org/wiki/Enheduanna) to start!
+
 ## Dr. Sandra Faber
 
 Dr. Sandra Faber, an astronomer who (along with Dr. Robert Jackson)
