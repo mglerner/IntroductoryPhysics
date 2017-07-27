@@ -2,7 +2,8 @@
 
 People have written more eloquently than I can about this (e.g Chanda Prescod-Weinstein's 
 [Decolonising Science Reading
-List](https://medium.com/@chanda/decolonising-science-reading-list-339fb773d51f#.3yyou2as5)). It
+List](https://medium.com/@chanda/decolonising-science-reading-list-339fb773d51f#.3yyou2as5)
+and her followup articles including [Making Meaning of "Decolonising"](https://medium.com/@chanda/making-meaning-of-decolonising-35f1b5162509)). It
 is certainly true, for instance, that  working through a common
 syllabus with a standard textbook will have intro students looking at
 a progression of Physicists all of whom look like Newton.
