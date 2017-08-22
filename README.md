@@ -701,3 +701,10 @@ expert in beta decay.  Yang and Lee asked her to study the radioactive
 decay of Co-60, and her results verified the "Yang-Lee" theory, thus
 disproving the supposed "conservation of Parity" in beta decay.
 
+## Ibn Sahl
+
+Snell's law was "first discovered in the 10th century by the Persian scientist Ibn Sahl, not centuries later by Snell" [Scientists Must Challenge What Makes Studies Scientific](https://www.americanscientist.org/blog/macroscope/scientists-must-challenge-what-makes-studies-scientific)
+
+## Al Hazen Ibn al-Haytham
+
+Invented pinhole camera [Wikipedia entry](https://en.wikipedia.org/wiki/Ibn_al-Haytham)
