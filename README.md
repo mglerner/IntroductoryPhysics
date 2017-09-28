@@ -45,41 +45,41 @@ lives in a different file. Here is an
 
 Here's the actual script/assignment I use in class:
 
-   The content of this particular course (and this particular
-   textbook) has pretty much focused on ideas developed by white,
-   European men. In fact, working through a common syllabus with a
-   standard textbook will have you looking at a progression of
-   Physicists all of whom (to within rounding error) look like
-   Newton. I'd like to say that's a historical accident, but it's actually
-   more complicated than that, and perhaps not always so benign as the
-   word "accident" might imply.
+>The content of this particular course (and this particular
+textbook) has pretty much focused on ideas developed by white,
+European men. In fact, working through a common syllabus with a
+standard textbook will have you looking at a progression of
+Physicists all of whom (to within rounding error) look like
+Newton. I'd like to say that's a historical accident, but it's actually
+more complicated than that, and perhaps not always so benign as the
+word "accident" might imply.
 
-  Your task in this assignment is to broaden this focus by writing a
-  paragraph or so about someone who's made a significant contribution
-  to Physics and who is not a white, European male. This can be a
-  contemporary or a historical figure. Try to find someone you don't
-  already know about - or perhaps someone you do know about but think
-  should be better known. Your paragraphs should include telling us
-  who the person is, the contribution(s), the significance of the
-  contribution(s), something about that person's life and how it
-  impacted that person's experience that led to his or her
-  discoveries. Next, looking through the table of contents and/or
-  index of your textbook, tell us where the person's contributions
-  might be placed in this textbook (the textbook covers a very large
-  amount of Physics, so you may be able to answer this part even if we
-  won't cover the relevant contributions this semester). Finally, if
-  at all possible, please include a link to a picture of the person.
+>Your task in this assignment is to broaden this focus by writing a
+paragraph or so about someone who's made a significant contribution
+to Physics and who is not a white, European male. This can be a
+contemporary or a historical figure. Try to find someone you don't
+already know about - or perhaps someone you do know about but think
+should be better known. Your paragraphs should include telling us
+who the person is, the contribution(s), the significance of the
+contribution(s), something about that person's life and how it
+impacted that person's experience that led to his or her
+discoveries. Next, looking through the table of contents and/or
+index of your textbook, tell us where the person's contributions
+might be placed in this textbook (the textbook covers a very large
+amount of Physics, so you may be able to answer this part even if we
+won't cover the relevant contributions this semester). Finally, if
+at all possible, please include a link to a picture of the person.
 
-  It would be great if everyone found a different scientist to
-  describe, so if you know whom someone else is choosing to write
-  about, please choose someone else.
+>It would be great if everyone found a different scientist to
+describe, so if you know whom someone else is choosing to write
+about, please choose someone else.
 
-  Our intention is to make the results of this assignment public, so
-  please submit your assignment in the format described by the example
-  file located at https://goo.gl/AkT97E (since we plan to make this
-  public, please be sure either to include your name if you'd like
-  your name included in the text, or to leave it out if you don't want
-  it included). Please remember to cite your sources.
+>Our intention is to make the results of this assignment public, so
+please submit your assignment in the format described by the example
+file located at https://goo.gl/AkT97E (since we plan to make this
+public, please be sure either to include your name if you'd like
+your name included in the text, or to leave it out if you don't want
+it included). Please remember to cite your sources.
 
 
 
