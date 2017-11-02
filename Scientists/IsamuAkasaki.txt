@@ -1,0 +1,13 @@
+# Name
+Isamu Akasaki
+# Textbook
+Knight, 3rd edition, Chapter 30
+#Contributors
+
+# Description
+The main contribution of Isamu Akasaki is in the semiconductor field. He, along with Hiroshi Amano and Shuji Nakamura invented efficient blue light-emitting diodes, and won the 2014 Noble Prize in Physics. He worked on GaN to make high-brightness blue LED light. As a result, people are able to have bright white LED light as an energy-saving light source.
+# Sources
+"Isamu Akasaki." Isamu Akasaki - Engineering and Technology History Wiki, 	http://ethw.org/Isamu_Akasaki.
+"Isamu Akasaki." Wikipedia, Wikimedia Foundation, 4 Oct. 2017, 	http://en.wikipedia.org/wiki/Isamu_Akasaki. 
+# Photo
+http://ethw.org/w/images/7/7c/Isamu_Akasaki_2482.jpg

@@ -1,0 +1,17 @@
+# Name
+Bhāskara II
+# Textbook
+Knight, 3rd edition, Chapter 17, section 4
+# Contributors
+Jacob Harris
+
+# Description
+Bhāskara II was a 12th century Indian mathematician and astronomer. Among his many notable accomplishments, which include using differentials centuries before Newton “invented” calculus (Bhāskara II), Bhāskara II was one of the first to design a perpetual motion machine. The “Bhāskara wheel” has curved spokes filled with mercury, which flows downward in the direction of rotation, theoretically creating a shifting force to power perpetual rotation (Simanek 2010). Unfortunately, Bhāskara II didn’t account for the unbalancing effect of the mercury flow, which shifts the wheel’s center of mass and eventually disrupts rotation (Simanek). Bhāskara II’s design has remained a fascination for physicists and countless researchers have tried to optimize his design and create a truly perpetually rotating wheel.  All have failed (Simanek). Bhāskara II was instrumental is the development of Indian mathematics, and was honored in 1981 with an eponymous satellite (Bhāskara II).
+
+# Sources
+“Bhāskara II.” Wikipedia: The Free Encyclopedia. Wikimedia Foundation, Inc. 22 July 2004. Web. Accessed 30 Sept. 2017. https://en.wikipedia.org/wiki/Bh%C4%81skara_II#Engineering
+Simanek, Donald. 2010. “The Shifting-Mass Overbalanced Wheel.” The Museum of Unworkable Devices, Lock Haven University. Accessed 30 Sept. 2017. http://www.lhup.edu/~dsimanek/museum/overbal.htm. 
+
+# Photo
+http://www.famousmathematicians.com/wp-content/uploads/2016/09/bhaskara-273x300.jpg
+

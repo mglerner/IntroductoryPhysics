@@ -65,7 +65,8 @@ def addscientists(textbook,textbookname,verbose=False):
     """
     scientists = glob.glob('Scientists/*.txt')
     for scientist in scientists:
-        if verbose: print('adding scientist',scientist)
+        if verbose or 1:
+            print('adding scientist',scientist)
         #parts = dict(scientistparts(scientist))
         # Above doesn't work if we have duplicates
         parts ={'Textbook':[]}
@@ -78,7 +79,10 @@ def addscientists(textbook,textbookname,verbose=False):
                 formatted = ''
                 for vv in v.split():
                     if vv.startswith('http'):
-                        formatted += '<a href="{vv}">Link{i}</a> '.format(vv=vv,i=i)
+                        linkpart = vv.strip()
+                        if linkpart.endswith('.'):
+                            linkpart = linkpart[:-1]
+                        formatted += '<a href="{vv}">Link{i}</a> '.format(vv=linkpart,i=i)
                         i += 1
                     else:
                         formatted += ' ' + vv
@@ -93,7 +97,8 @@ def addscientists(textbook,textbookname,verbose=False):
                 parts.update(bp)
                 df = pd.DataFrame(data=[parts])
                 del df['Textbook']
-                if verbose: print('df',df)
+                if verbose or 1:
+                    print('df',df)
                 textbook = textbook.append(df)
             else:
                 if verbose: print('skipping',bp['Textbook'],'because it is not',textbookname)

@@ -1,0 +1,30 @@
+#Name 
+Warren Henry
+
+# Textbook
+Knight, 3rd edition, Chapter 30, section 4
+ 
+#Contributors
+Joshua Maclin
+
+# Description
+Warren Henry was an African American Physicist that had somewhat of an astute background for a black man of his time. Both of his parents had graduated from the Tuskegee Institute, and George Washington Carver lived and conducted research on his parent’s farm during the summer months (Williams). It can be quite apparent to see where his interest in the sciences more than likely came from during his childhood. He later attended Tuskegee where he majored in Mathematics, English, and French (Williams). Later wanting to conduct research, he turned to Rutgers University where they then turned him away (Williams).  As a result, he ended up going to the Naval Research Laboratory where he would reside for the next 12 years (Williams). During that time he was able to research and gain the knowledge of materials that were at a rather low temperature (Williams). His expertise regarding low-temperature research was probably unsurpassed in the U.S. while at the Naval Research Laboratory. He was also the head of several projects at several institutions like UC Berkeley amongst others. 
+
+Even though his research in low temperatures was quite significant, he was most known for his work in magnetism and superconductivity. His work in this field was what brought him the most praise by the scientific community. He had written a highly detailed study that consisted of a "demonstration of the proof of non-interacting paramagnetic ions and how they’re a significant contribution” when considering magnetism and superconductivity (Williams). 
+
+His work was a significant contribution to the world because his models and ideas have been implemented into modern textbooks, and are still widely used to this day. A prime example of that being the demonstration I had spoken of earlier that took place back in 1934. 
+
+In relation to where Henry’s work can be found in the textbook, I would imagine that his material could be found in chapter 32 and 33 where it talks about the magnetic field of a current and electromagnetic induction.
+
+# Sources
+
+Physics Central. “Africn Americans in Physics.” Physics Buzz, American Physical Society, 27 
+	Feb. 2013, http://physicsbuzz.physicscentral.com/2013/02/african-americans-in-
+	physics.html
+
+Williams, Scott. “Physicist of the African Diaspora - Warren E Henry.” Warren E. Henry - 
+	Physicist of the African Diaspora, Bonvibre & Daughters, http://www.math.buffalo.edu/
+	mad/physics/henry_warren.html
+
+# Photo
+http://www.math.buffalo.edu/mad/PIX/henry_warren.howard1.jpg

@@ -1,0 +1,15 @@
+# Name
+Chen-Ning Yang
+# Textbook
+Halliday Resnick and Walker, 8th edition, Chapter 46, section 6
+#Contributors
+
+
+# Description
+Chen-Ning Frank Yang, also known as Yang Zhenning, was born October 1, 1922. He is a Chinese physicist who works on statistical mechanics and particle physics. He and Tsung-dao Lee received the 1957 Nobel Prize in Physics for their work on parity non conservation of weak interaction. The two proved theoretically that one of the basic quantum-mechanics laws, the conservation of parity, is violated in the so-called weak nuclear reactions, those nuclear processes that result in the emission of beta or alpha particles. They had examined all experiments in the past and found that none of them proved parity conservation of weak interaction. Based on this, they came up with several ways to examine that parity non conservation of weak interaction and this theory has proved later on.
+
+# Sources
+https://en.wikipedia.org/wiki/Chen-Ning_Yang
+
+# Photo
+https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike150%2C5%2C5%2C150%2C50/sign=187e68779a25bc313f5009ca3fb6e6d4/6609c93d70cf3bc7aab67055d200baa1cc112ad0.jpg
