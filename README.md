@@ -82,8 +82,13 @@ your name included in the text, or to leave it out if you don't want
 it included). Please remember to cite your sources.
 
 
-
 The python script here autogenerates annotated tables of contents!
+
+TODO
+* Add more textbooks
+* Focus on 2nd semester
+* Make a javascript page that generates the text files, so people don't use Word, etc. They'll enter text, I'll return something. Perhaps this needs to be done via github.io? Here's something hosted on github.io that takes one thing and returns another [P2SH Converter](https://litecoin-project.github.io/p2sh-convert/)
+
 Here's the current version, which obviously needs more scientists
 added:
 
