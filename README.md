@@ -27,15 +27,23 @@ this better.
 Some details:
 
 In order to make contributions easy, information about each scientist
-lives in a different file. Here is an
+lives in a different file. It's a simple text file, and I've set up a
+page that can make one for you
+[here](https://mglerner.github.io/pages/nonnewtonian-scientists.html). Check
+it out!
+
+If you like, you can also make a file directly yourself. Here is an
 [Example File](ExampleScientist.txt).
 
 * Add as much of the information as you can, but please feel
   *encouraged* to send me incomplete files if that's what you have!
   Something is way better than nothing!
 
-* Try to follow the format as well as you can. If you send me files
-  (either via email <mglerner@gmail.com> or as a PR), I'll gladly reformat them to fix any
+* Try to follow the format as well as you can (filling in the boxes on
+  the
+  [form](https://mglerner.github.io/pages/nonnewtonian-scientists.html)
+  makes this really easy!). If you send me files
+  (either via email <mglerner@proton.com> or as a PR), I'll gladly reformat them to fix any
   small mistakes, so don't let that stop you!
 
 * Please cite your sources (Wikipedia is OK!), and feel free to quote
@@ -76,10 +84,13 @@ about, please choose someone else.
 
 >Our intention is to make the results of this assignment public, so
 please submit your assignment in the format described by the example
-file located at https://goo.gl/AkT97E (since we plan to make this
+file located at https://goo.gl/AkT97E and please note that it's really
+easy to create your own file by using the
+[form](https://mglerner.github.io/pages/nonnewtonian-scientists.html). Since
+we plan to make this
 public, please be sure either to include your name if you'd like
 your name included in the text, or to leave it out if you don't want
-it included). Please remember to cite your sources.
+it included. Please remember to cite your sources.
 
 
 The python script here autogenerates annotated tables of contents!
@@ -87,7 +98,7 @@ The python script here autogenerates annotated tables of contents!
 TODO
 * Add more textbooks
 * Focus on 2nd semester
-* Make a javascript page that generates the text files, so people don't use Word, etc. They'll enter text, I'll return something. Perhaps this needs to be done via github.io? Here's something hosted on github.io that takes one thing and returns another [P2SH Converter](https://litecoin-project.github.io/p2sh-convert/)
+* Make a javascript page that generates the text files, so people don't use Word, etc. They'll enter text, I'll return something. Perhaps this needs to be done via github.io? Here's something hosted on github.io that takes one thing and returns another [P2SH Converter](https://litecoin-project.github.io/p2sh-convert/). I may want to do this on my Nikola site like [this](https://groups.google.com/forum/#!topic/nikola-discuss/KaANFRakUU0)
 
 Here's the current version, which obviously needs more scientists
 added:
