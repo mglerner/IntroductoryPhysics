@@ -65,7 +65,7 @@ def addscientists(textbook,textbookname,verbose=False):
     """
     scientists = glob.glob('Scientists/*.txt')
     for scientist in scientists:
-        if verbose or 1:
+        if verbose:
             print('adding scientist',scientist)
         #parts = dict(scientistparts(scientist))
         # Above doesn't work if we have duplicates
@@ -73,7 +73,7 @@ def addscientists(textbook,textbookname,verbose=False):
         for (k,v) in scientistparts(scientist):
             if k == 'Photo':
                 #v = Image(url=v)
-                v = '<img src="{v}">'.format(v=v)
+                v = '<img src="{v}" width="300">'.format(v=v)
             elif k == 'Sources':
                 i = 1
                 formatted = ''
@@ -97,7 +97,7 @@ def addscientists(textbook,textbookname,verbose=False):
                 parts.update(bp)
                 df = pd.DataFrame(data=[parts])
                 del df['Textbook']
-                if verbose or 1:
+                if verbose:
                     print('df',df)
                 textbook = textbook.append(df)
             else:
