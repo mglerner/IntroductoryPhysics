@@ -113,7 +113,7 @@ added:
       <th></th>
       <th></th>
       <th>Name</th>
-      <th>Photo</th>
+      <th>Photo............................</th>
       <th>Description</th>
       <th>Sources</th>
       <th>Contributors</th>
