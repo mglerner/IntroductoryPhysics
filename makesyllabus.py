@@ -108,7 +108,7 @@ def maketextbook(fname):
     d = pd.read_csv(fname)
     textbook = addscientists(d,'Knight, 3rd edition')
     # I want the order of columns
-    cols = ['Chapter','Section','Topics','Name','Photo','Description','Sources']
+    cols = ['Chapter','Section','Topics','Photo','Name','Description','Sources']
     cols = cols + [i for i in textbook.columns.tolist() if i not in cols]
     textbook = textbook[cols]
     textbook = textbook.sort_values(by=['Chapter','Section','Topics','Description','Name'],
