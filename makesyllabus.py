@@ -73,7 +73,7 @@ def addscientists(textbook,textbookname,verbose=False):
         for (k,v) in scientistparts(scientist):
             if k == 'Photo':
                 #v = Image(url=v)
-                v = '<img src="{v}" width="300" hspace="20"/>'.format(v=v)
+                v = '<img src="{v}" width="300"/>'.format(v=v)
             elif k == 'Sources':
                 i = 1
                 formatted = ''
