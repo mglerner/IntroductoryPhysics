@@ -112,7 +112,8 @@ Here's the current version, which obviously needs more scientists
 added:
 
 **CLICK on the photo for a powerpoint slide, or download the whole
-  slide deck for Knight, 3rd edition (calc-based) [here](Textbooks/Knight, 3rd edition.pptx)!**
+  slide deck for Knight, 3rd edition (calc-based)**
+  [here](Textbooks/Knight, 3rd edition.pptx) **!!!**
 
 <table border="1" class="dataframe">
   <thead>
