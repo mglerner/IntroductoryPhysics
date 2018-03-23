@@ -106,7 +106,16 @@ for f in *.html; do html2text < $f > ${f:r}.md; done
 TODO
 * Add more textbooks
 * Focus on 2nd semester
-* Make the table look nicer.
+* Make everyone go through the form
+* Fix mixup between calc-based and algebra-based
+* Make a drop-down in the form for textbooks, or split it up into
+sections like "Author, Title, Edition"
+* Allow multiple textbooks. This may mean parsing the MD into an
+  object. First thought on that object, it's heart is a list of lists,
+  and it has a fancy getter function which can take context (need the
+  raw image url for making your PPTX? Cool. Need it wrapped in an
+  image tag, which is wrapped in an anchor tag? cool.)
+
 
 Here's the current version, which obviously needs more scientists
 added:
@@ -114,6 +123,10 @@ added:
 **CLICK on the photo for a powerpoint slide, or download the whole
   slide deck for Knight, 3rd edition (calc-based)**
   [here](Textbooks%2FKnight%2C%203rd%20edition.pptx) **!!!**
+
+**WARNING: Some of the content got mixed up between the calc-based
+  class and the algebra-based class. I need to fix it. The
+  descriptions and pictures should be right, but the chapters may be wrong.**
 
 <table border="1" class="dataframe">
   <thead>
