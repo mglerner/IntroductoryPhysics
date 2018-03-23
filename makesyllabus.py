@@ -2,7 +2,7 @@
 
 import pandas as pd
 import glob
-
+import urllib
 
 from IPython.display import Image
 from IPython.core.display import HTML 
@@ -82,7 +82,7 @@ def addscientists(textbook,textbookname,verbose=False):
                 for vvv in v.split():
                     vv += '<a href="Textbooks/{n}.pptx"><img src="{v}" width="300"/></a>'.format(
                         v=vvv,
-                        n=parts['Name']
+                        n=urllib.parse.quote_plus(parts['Name']),
                     )
                 v = vv
             elif k == 'Sources':
