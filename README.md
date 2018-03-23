@@ -113,7 +113,7 @@ added:
 
 **CLICK on the photo for a powerpoint slide, or download the whole
   slide deck for Knight, 3rd edition (calc-based)**
-  [here](Textbooks/Knight, 3rd edition.pptx) **!!!**
+  [here](Textbooks%2FKnight%2C%203rd%20edition.pptx) **!!!**
 
 <table border="1" class="dataframe">
   <thead>
