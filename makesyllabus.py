@@ -3,9 +3,13 @@
 import pandas as pd
 import glob
 
+
 from IPython.display import Image
 from IPython.core.display import HTML 
 
+import requests
+from pptx import Presentation
+from pptx.util import Inches
 
 
 knight = pd.read_csv('Textbooks/Knight3rdEdition.csv')
@@ -61,8 +65,9 @@ def bookparts(txt):
             
 
 def addscientists(textbook,textbookname,verbose=False):
-    """Handles special formatting for images and links.
+    """Handles special formatting for images and links. Also creates PPTX presentation, as a side effect.
     """
+    prs0 = Presentation()
     scientists = glob.glob('Scientists/*.txt')
     for scientist in scientists:
         if verbose:
@@ -73,7 +78,13 @@ def addscientists(textbook,textbookname,verbose=False):
         for (k,v) in scientistparts(scientist):
             if k == 'Photo':
                 #v = Image(url=v)
-                v = '<img src="{v}" width="300"/>'.format(v=v)
+                vv = ''
+                for vvv in v.split():
+                    vv += '<a href="Textbooks/{n}.pptx"><img src="{v}" width="300"/></a>'.format(
+                        v=vvv,
+                        n=parts['Name']
+                    )
+                v = vv
             elif k == 'Sources':
                 i = 1
                 formatted = ''
@@ -102,11 +113,52 @@ def addscientists(textbook,textbookname,verbose=False):
                 textbook = textbook.append(df)
             else:
                 if verbose: print('skipping',bp['Textbook'],'because it is not',textbookname)
+
+        # Now, for extra cool, make a powerpoint slide!
+        # This should loop through each of the photos, making a new slide in the presentation for each photo.
+        if 'Photo' in parts and parts['Photo']:
+            prs = Presentation()
+            add_scientist_slide(prs0,scientist,name=parts['Name'],verbose=verbose)
+            add_scientist_slide(prs,scientist,name=parts['Name'],verbose=verbose)
+            # get the original, unparsed photos bit.
+            prs.save('Textbooks/{n}.pptx'.format(n=parts['Name'].strip()))
+    prs0.save('Textbooks/{n}.pptx'.format(n=textbookname))
     return textbook
 
-def maketextbook(fname):
+def add_scientist_slide(prs,scientist,name,verbose=False):
+    """Creates image file as side effect
+    """
+    for (k,v) in scientistparts(scientist):
+        if k == 'Photo':
+            break
+    for p in v.split():
+        img_path = 'test.jpg'
+        if verbose:
+            print(f'Grabbing image: {p}')
+        img_data = requests.get(p).content
+        with open(img_path, 'wb') as handler:
+            handler.write(img_data)
+        blank_slide_layout = prs.slide_layouts[5]
+
+        slide = prs.slides.add_slide(blank_slide_layout)
+
+        shapes = slide.shapes
+        title_shape = shapes.title
+        title_shape.text = name
+
+        top = Inches(1.75)
+        left = Inches(0.5)
+        height = Inches(5)
+        pic = slide.shapes.add_picture(img_path, left, top, height=height)
+
+        notes_slide = slide.notes_slide
+        text_frame = notes_slide.notes_text_frame
+        text_frame.text = open(scientist).read()
+    
+
+def maketextbook(fname,verbose=False):
     d = pd.read_csv(fname)
-    textbook = addscientists(d,'Knight, 3rd edition')
+    textbook = addscientists(d,'Knight, 3rd edition',verbose=verbose)
     # I want the order of columns
     cols = ['Chapter','Section','Topics','Photo','Name','Description','Sources']
     cols = cols + [i for i in textbook.columns.tolist() if i not in cols]

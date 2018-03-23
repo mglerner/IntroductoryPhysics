@@ -1,0 +1,38 @@
+# Name  
+Robert Bragg  
+  
+# Textbook  
+Knight 3rd edition , Chapter 28  
+  
+# Textbook  
+  
+  
+# Textbook  
+  
+  
+# Contributors  
+  
+  
+# Description  
+Robert Bragg was a African American born in Jacksonville , Florida in 1919 .
+He has made major contributions in the areas of materials characterization
+using x-ray diffraction and small angle x-ray scattering, and their use as a
+tool in studying heat-activated processes in materials. He developed methods
+of quantitative x-ray diffractions of compounds; e.g., Ca(OH)2 in hydrous
+silicates. Robert Bragg originated the now-standard practice of using the data
+as self-calibrating in the quantitative determination of preferred orientation
+in polycrystalline aggregates. His work provides clear guidance in the
+analysis of the diffraction patterns of materials of high transparency to
+x-rays, e.g. Be, B, and C. His novel studies of the coarsening of the
+microstructure of glassy carbon using small angle x-ray scattering have
+provided the accepted value for the activation energy for a-direction vacancy
+migration in graphite.His most important work is the recent demonstration that
+all apparently unordered carbon materials are mixtures of metastable carbon
+compounds, and his first principles derivation of the equations governing the
+phase transformations at high temperatures as these materials are converted to
+graphite.  
+  
+# Sources  
+http://www.math.buffalo.edu/mad/physics/bragg_roberth.html  
+  
+

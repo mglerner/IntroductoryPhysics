@@ -1,0 +1,41 @@
+# Name  
+Tsung-Dao Lee  
+  
+# Textbook  
+Knight, 3rd edition, Chapter 42, Section 2  
+  
+# Textbook  
+  
+  
+# Textbook  
+  
+  
+# Contributors  
+Khai Nguyen  
+  
+# Description  
+Tsung-Dao Lee is a Chinese-American physicist, known for his work on parity
+violation, the Lee Model, particle physics, relativistic heavy ion physics,
+nontopological solitons and soliton stars. He was a recipient of the 1957
+Nobel Prize in Physics at the age of 30. Lee conducted the majority of his
+life's research at Columbia University, where his first work was on a solvable
+model of quantum field theory known as the Lee Model. Later, he worked on the
+puzzle of K meson decay, through which he studied parity non-conservation in
+weak interactions. This work led to his winning the Nobel Prize in Physics. He
+was also very active in statistical mechanics, astrophysics, and a number of
+other disciplines.  
+  
+# Sources  
+Lee, T. D., & Yang, C. N. (1956). Question of parity conservation in weak
+interactions. Physical Review, 104(1), 254. Lee, T. D. (1981). Particle
+Physics and Introduction to Field Theory, Comtemporary Concepts in Physics
+Vol. 1. Harwood academic publishers. Lee, T. D., & Yang, C. N. (1952).
+Statistical theory of equations of state and phase transitions. II. Lattice
+gas and Ising model. Physical Review, 87(3), 410. Yang, C. N., & Lee, T. D.
+(1952). Statistical theory of equations of state and phase transitions. I.
+Theory of condensation. Physical Review, 87(3), 404.  
+  
+# Photo  
+https://upload.wikimedia.org/wikipedia/commons/5/53/TD_Lee.jpg  
+  
+

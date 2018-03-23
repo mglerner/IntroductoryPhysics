@@ -1,0 +1,36 @@
+# Name  
+Ruby Payne-Scott  
+  
+# Textbook  
+Knight, 3rd edition, Chapter 15  
+  
+# Contributors  
+Megan Hedinger  
+  
+# Description  
+Ruby Payne-Scott was an Australian born physicist and radio astronomer. She
+began work as a physicist with the cancer treatment center at the University
+of Sydney where she focused on radiation therapy as a form of cancer
+treatment. She later completed her master's thesis on wavelength distributions
+of radiation. Ruby worked briefly as a teacher before receiving a job in the
+radiophysics division of the Commonwealth Scientific and Industrial Research
+Organization where she worked on radar technology for the army. Her most
+notable contribution, however, lay in her interest in extraterrestrial radio
+signals. She demonstrated, with the help of two colleagues, that radio
+brightness across the sky could be treated as a two-dimensional sum of an
+infinite series of simple waveforms and showed that it could be computed using
+the Fourier transform. Ruby's work served as a mathematical foundation for
+radio astronomy. In addition to being a brilliant scientist, she was an avid
+supporter of women's rights believing in equal employment and pay for women.  
+  
+# Sources  
+Goss, W., & Hooker, C. (2018). Biography - Ruby Violet Payne-Scott -
+Australian Dictionary of Biography. Adb.anu.edu.au. Retrieved 19 February
+2018, from http://adb.anu.edu.au/biography/payne-scott-ruby-violet-15036
+
+Ruby Payne-Scott [1912-1981] - CSIROpedia. (2018). CSIROpedia. Retrieved 19
+February 2018, from https://csiropedia.csiro.au/payne-scott-ruby/  
+  
+# Photo  
+https://csiropedia.csiro.au/wp-content/uploads/2015/01/6235943.jpg  
+

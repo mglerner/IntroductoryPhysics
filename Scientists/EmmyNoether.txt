@@ -1,0 +1,52 @@
+# Name
+
+Emmy Noether
+
+  
+
+# Textbook
+
+Knight, 3rd edition, Chapter 10
+
+  
+
+# Contributor
+
+Mai Hoang
+
+  
+
+# Description
+
+Amalie Emmy Noether was a German mathematician and physicist known for her
+landmark contributions to abstract algebra and theoretical physics. One of her
+most remarkable discoveries in physics was Noether's theorem. The theorem
+states that every differentiable symmetry of the action of a physical system
+has a corresponding conservation law. In 1915, Noether was helping two other
+scientists, David Hilbert and Felix Klein, to understand Albert Einstein's
+general relativity theory when she proved Noether's first theorem. Upon
+receiving her work, Einstein wrote to Hilbert: "Yesterday I received from Miss
+Noether a very interesting paper... I'm impressed that such things can be
+understood in such a general way. The old guard at Göttingen should take some
+lessons from Miss Noether! She seems to know her stuff."
+
+Noether's theorem has become a fundamental tool of modern theoretical physics
+because of the insight it gives into conservation laws and also being
+practical calculation tool. For example, suppose that a new physical
+phenomenon is discovered. Noether's theorem provides a test for theoretical
+models of the phenomenon: if the theory has a continuous symmetry, then
+Noether's theorem guarantees that the theory has a conserved quantity, and for
+the theory to be correct, this conservation must be observable in experiments.
+
+  
+
+# Sources
+
+https://en.wikipedia.org/wiki/Emmy_Noether
+
+  
+
+# Photo
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Noether.jpg/330px-Noether.jpg
+
