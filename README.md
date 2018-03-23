@@ -108,6 +108,10 @@ TODO
 * Focus on 2nd semester
 * Make everyone go through the form
 * Fix mixup between calc-based and algebra-based
+   * Here, note for example that Sylvester James Gate is listed in 2nd
+     edition, but is showing up in 3rd
+   * Also note that I may have turned some 2nd edition ones into 3rd
+     by accident, so just check the TOC.
 * Make a drop-down in the form for textbooks, or split it up into
 sections like "Author, Title, Edition"
 * Allow multiple textbooks. This may mean parsing the MD into an
