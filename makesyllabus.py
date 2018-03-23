@@ -82,7 +82,8 @@ def addscientists(textbook,textbookname,verbose=False):
                 for vvv in v.split():
                     vv += '<a href="Textbooks/{n}.pptx"><img src="{v}" width="300"/></a>'.format(
                         v=vvv,
-                        n=urllib.parse.quote_plus(parts['Name']),
+                        #n=urllib.parse.quote_plus(parts['Name']),
+                        n=parts['Name'],
                     )
                 v = vv
             elif k == 'Sources':
