@@ -62,7 +62,7 @@ def bookparts(txt):
         'Chapter':chapter,
         'Section':section})
     
-            
+
 
 def addscientists(textbook,textbookname,verbose=False):
     """Handles special formatting for images and links. Also creates PPTX presentation, as a side effect.
