@@ -130,7 +130,8 @@ class Scientist:
                 else:
                     parts[k] = ' '.join([parts[k],this_entry])
         if 'Photo' in parts:
-            slide_link = '<a href="Textbooks/{n}.pptx">Download Slide</a>'.format(
+            #https://github.com/mglerner/IntroductoryPhysics/blob/master/Textbooks/Emmy%20Noether.pptx?raw=true
+            slide_link = '<a href="blob/master/Textbooks/{n}.pptx?raw=true">Download Slide</a>'.format(
                         n=parts['Name'],)
             parts['Photo'] = parts['Photo'] + ' ' + slide_link
         #for (k,v) in parts.items():
