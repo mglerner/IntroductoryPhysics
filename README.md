@@ -1,5 +1,9 @@
 # IntroductoryPhysics
 
+**TLDR for students:** Research a scientist who doesn't look like Isaac Newton, fill out the [form](https://mglerner.github.io/pages/nonnewtonian-scientists.html), email me the results <mglerner@protonmail.com>, and your scientist will appear in the textbook links below!
+
+**TLDR for teachers:** Check out the textbook below. It's organized by chapter and section. Find a scientist relevant to your class. Click on the "Download Slide" link and get a powerpoint slide with the scientist's picture(s) and description!
+
 People have written more eloquently than I can about this (e.g Chanda Prescod-Weinstein's 
 [Decolonising Science Reading
 List](https://medium.com/@chanda/decolonising-science-reading-list-339fb773d51f#.3yyou2as5)
