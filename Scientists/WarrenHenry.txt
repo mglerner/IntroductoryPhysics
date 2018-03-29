@@ -2,7 +2,7 @@
 Warren Henry
 
 # Textbook
-Knight, 3rd edition, Chapter 30, section 4
+Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition, Chapter 30, section 4
  
 #Contributors
 Joshua Maclin

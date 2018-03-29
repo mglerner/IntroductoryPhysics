@@ -2,7 +2,7 @@
 Ronald McNair  
   
 # Textbook  
-Knight, 3rd edition, chapter 6, section 6
+Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition, chapter 6, section 6
   
 # Description  
 McNair was an American physicist and an astronaut for NASA. He only lived

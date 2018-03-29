@@ -1,20 +1,11 @@
 # Name
-
 Emmy Noether
 
-  
-
 # Textbook
-
-Knight, 3rd edition, Chapter 10
-
-  
+Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition, Chapter 10
 
 # Contributor
-
 Mai Hoang
-
-  
 
 # Description
 

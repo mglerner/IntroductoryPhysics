@@ -2,7 +2,7 @@
 Ruby Payne-Scott  
   
 # Textbook  
-Knight, 3rd edition, Chapter 15  
+Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition, Chapter 15  
   
 # Contributors  
 Megan Hedinger  

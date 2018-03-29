@@ -1,7 +1,7 @@
 # Name
 Bhāskara II
 # Textbook
-Knight, 3rd edition, Chapter 17, section 4
+Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition, Chapter 17, section 4
 # Contributors
 Jacob Harris
 

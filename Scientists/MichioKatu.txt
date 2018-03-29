@@ -2,8 +2,7 @@
 Michio Katu
 
 # Textbook  
-Knight, 3rd edition, Chapter 28  
-
+Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition, Chapter 28  
   
 # Contributors  
 Yuyu Zhang

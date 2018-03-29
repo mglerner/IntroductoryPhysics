@@ -2,7 +2,7 @@
 Shin'ichirō Tomonaga  
   
 # Textbook  
-Knight, 3rd edition, Chapter 30, section 3  
+Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition, Chapter 30, section 3  
   
   
 # Contributors  

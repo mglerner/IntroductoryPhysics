@@ -1,8 +1,7 @@
 # Name
 Margaret Murnane
 # Textbook
-Knight, 3rd edition, Chapter 32, section 2
-# Textbook
+Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition, Chapter 32, section 2
 Halliday Resnick and Walker, 6th edition, Chapter 6
 
 # Description
@@ -27,3 +26,4 @@ https://jila.colorado.edu/kmlabs/bio/murnane
 
 # Photo
 https://jila.colorado.edu/kmlabs/sites/default/files/styles/200_image/public/images/bios/Margaret_Murnane_portrait.jpg?itok=jY-_AF2Q
+https://www.colorado.edu/physics/sites/default/files/styles/small/public/people/murnane_margaret_final.jpg?itok=5D4kIR1j

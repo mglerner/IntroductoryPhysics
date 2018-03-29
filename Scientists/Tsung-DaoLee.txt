@@ -2,7 +2,7 @@
 Tsung-Dao Lee  
   
 # Textbook  
-Knight, 3rd edition, Chapter 42, Section 2  
+Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition, Chapter 42, Section 2  
   
 # Textbook  
   

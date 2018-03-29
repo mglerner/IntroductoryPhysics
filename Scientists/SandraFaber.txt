@@ -1,7 +1,7 @@
 # Name
 Sandra Faber
 # Textbook
-Knight, 3rd edition, Chapter 40
+Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition, Chapter 40
 # Contributors
 
 
