@@ -98,24 +98,6 @@ your name included in the text, or to leave it out if you don't want
 it included. Please remember to cite your sources.
 
 
-The python script here autogenerates annotated tables of contents. I usually 
-run it via the Jupyter notebook, Annotating.ipynb.
-
-Also worth noting: when I assign this in class as a Moodle assignment, Moodle tends to turn markdown into HTML. To get the markdown back, I use [html2text](https://github.com/Alir3z4/html2text/) (originally written by Aaron Swartz). I do this on the command line, in zsh:
-
-```bash
-for f in *.html; do html2text < $f > ${f:r}.md; done
-```
-
-TODO
-* Add more textbooks
-* Focus on 2nd semester
-* Make everyone go through the form
-* Fix mixup between calc-based and algebra-based
-   * Here, note for example that Sylvester James Gate is listed in 2nd
-     edition, but is showing up in 3rd
-   * Also note that I may have turned some 2nd edition ones into 3rd
-     by accident, so just check the TOC.
 
 
 Here's the current version, which obviously needs more scientists
@@ -887,3 +869,24 @@ Snell's law was "first discovered in the 10th century by the Persian scientist I
 ## Al Hazen Ibn al-Haytham
 
 Invented pinhole camera [Wikipedia entry](https://en.wikipedia.org/wiki/Ibn_al-Haytham)
+
+# Notes to me/developers
+
+The python script here autogenerates annotated tables of contents. I usually 
+run it via the Jupyter notebook, Annotating.ipynb.
+
+Also worth noting: when I assign this in class as a Moodle assignment, Moodle tends to turn markdown into HTML. To get the markdown back, I use [html2text](https://github.com/Alir3z4/html2text/) (originally written by Aaron Swartz). I do this on the command line, in zsh:
+
+```bash
+for f in *.html; do html2text < $f > ${f:r}.md; done
+```
+
+TODO
+* Add more textbooks
+* Focus on 2nd semester
+* Make everyone go through the form
+* Fix mixup between calc-based and algebra-based
+   * Here, note for example that Sylvester James Gate is listed in 2nd
+     edition, but is showing up in 3rd
+   * Also note that I may have turned some 2nd edition ones into 3rd
+     by accident, so just check the TOC.
