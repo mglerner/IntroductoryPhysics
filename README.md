@@ -105,7 +105,7 @@ added:
 
 **CLICK on the "Download Slide" link by each scientist for a powerpoint slide, or download the whole
   slide deck for Knight, 3rd edition (calc-based)**
-  [here](Textbooks%2FKnight%2C%203rd%20edition.pptx) **!!!**
+  [here](Textbooks%2FKnight%2C%203rd%20edition.pptx?raw=true) **!!!**
 
 **WARNING: Some of the content got mixed up between the calc-based
   class and the algebra-based class. I need to fix it. The
