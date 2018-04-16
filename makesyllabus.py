@@ -2,7 +2,6 @@
 
 import pandas as pd
 import glob
-import urllib
 
 import requests
 from pptx import Presentation
@@ -63,6 +62,8 @@ class Scientist:
                 self._scientistdict[k] = [v]
         self.name = self._scientistdict['Name'][0][0].strip()
     def matchestextbook(self,textbookname,verbose=False):
+        # This is an iterator, yielding matches.
+        #
         # Should match title. For now, just match edition
         # If matches, return chapter and section
         # This is why I need a dropdown for "known" textbooks. And I need 
@@ -82,9 +83,9 @@ class Scientist:
                             section = int(_part.replace('section','').strip())
                         else:
                             print('Unknown textbook part',part)
-                    return({'Chapter':chapter,
+                    yield({'Chapter':chapter,
                             'Section':section})
-        return False
+        #return False
     def todf(self,chapter,section):
         # See comments in __init__ but things may be nested one
         # level deeper than you expect.
@@ -145,6 +146,7 @@ def add_scientist_slide(prs,scientist,verbose=False):
     """
     for photos in scientist._scientistdict['Photo']:
         for photo in photos:
+            continue
             img_path = 'test.jpg'
             if verbose:
                 print(f'Grabbing image: {photo}')
@@ -173,8 +175,9 @@ def maketextbook(fname,*,textbookname,scientists,verbose=False):
     textbook = pd.read_csv(fname)
     prs0 = Presentation() # The whole textbook. Individual slides made separately below.
     for scientist in scientists:
-        match = scientist.matchestextbook(textbookname)
-        if match:
+        #match = scientist.matchestextbook(textbookname)
+        #if match:
+        for match in scientist.matchestextbook(textbookname):
             chapter,section = match['Chapter'],match['Section']
             if verbose:
                 print('Adding',scientist._scientistdict['Name'])
