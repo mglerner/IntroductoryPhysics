@@ -2,7 +2,11 @@
 
 **TLDR for students:** Research a scientist who doesn't look like Isaac Newton, fill out the [form](https://mglerner.github.io/pages/nonnewtonian-scientists.html), email me the results <mglerner@protonmail.com>, and your scientist will appear in the textbook links below!
 
-**TLDR for teachers:** Check out the textbook below. It's organized by chapter and section. Find a scientist relevant to your class. Click on the "Download Slide" link and get a powerpoint slide with the scientist's picture(s) and description!
+**TLDR for teachers:** Check out the textbook below. It's organized by
+  chapter and section. Find a scientist relevant to your class. Click
+  on the "Download Slide" link and get a powerpoint slide with the
+  scientist's picture(s) and description (descriptions in the Notes
+  section of the PPTX slide)!
 
 People have written more eloquently than I can about this (e.g Chanda Prescod-Weinstein's 
 [Decolonising Science Reading
@@ -105,7 +109,8 @@ added:
 
 **CLICK on the "Download Slide" link by each scientist for a powerpoint slide, or download the whole
   slide deck for Knight, 3rd edition (calc-based)**
-  [here](Textbooks%2FKnight%2C%203rd%20edition.pptx?raw=true) **!!!**
+  [here](Textbooks%2FKnight%2C%203rd%20edition.pptx?raw=true) **!!!
+  Notes for each scientist are in the Notes section of the PPTX slide.**
 
 
 <table border="1" class="dataframe">
