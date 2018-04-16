@@ -2,15 +2,35 @@
 Chien-Shiung Wu
 # Textbook
 Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition, Chapter 42, Section 2
+Knight, 2nd edition, Chapter 30 (Nuclear Physics), section 5
 # Contributors
 Khyrul Khan
+Chien-Shiung Wu
 
 # Description
 Chien-Shiung Wu (1912-1997) was a Chinese-American experimental physicist who made significant contributions in the field of nuclear physics1 (Wikipedia). Wu worked on the infamous Manhattan Project where she developed the process of separating uranium metal to uranium-235 and uranium-238 by gaseous diffusion1 (Wikipedia). Her work was credited to contradict the hypothetical Law of Conservation of Parity, which at the time was a well-established law and basically entailed a very complicated way of proving the idea of symmetry, where particles that are mirror images of each other will act in identical ways3 (ListVerse). Her experiments were incredibly significant in that she was able to show that one particle was more likely to eject an electron than the other and they were therefore not symmetrical and that observation overturned a 30-year belief and shattered the conservation of parity law3 (ListVerse). The discovery of parity violation was a major contribution to particle physics and the development of the Standard Model which is a paradigm of the modern quantum field theory2 (Wikipedia). It is little wonder that Wu is now hailed as “The First Lady of Physics” and the “Chinese Marie Curie”1(Wikipedia). However, unfortunately, like many of her contemporary female scientists, Wu’s work was discredited and her male co-workers Lee and Yang got awarded the Nobel Prize for Physics for ‘her’ experiment3 (ListVerse). In fact, she received no mention or credit for her significant contribution to the project until 1978, when she was awarded the inaugural Wolf Prize for Physics two decades after her ground-breaking experiment1(Wikipedia).
+
+[Commentary from a second student:]
+
+Wu was born in 1912. She got her B.E. from the National Central University of
+Nanking, China. She then got her Ph.D from University of California, Berkeley.
+Wu disproved the law of conservation of parity. She found that parity was not
+conserved in nuclear beta decay. She has many other achievements, such as
+working on the Manhattan Project and helped in the development of a more
+sensitive Geiger counter.  
+
 
 # Sources
 Chien-Shiung Wu. Wikipedia. The Free Encyclopedia. Wikimedia Foundation, Inc. 20 September 2017. Web. 06 October 2017. https://en.wikipedia.org/wiki/Chien-Shiung_Wu
 Standard Model. Wikipedia. The Free Encyclopedia. Wikimedia Foundation, Inc. 16 September 2017. Web. 06 October 2017. https://en.wikipedia.org/wiki/Standard_Model
 10 Groundbreaking Women Scientists Written Off By History. Shelby Hoebee. October 14, 2013. ListVerse. http://listverse.com/2013/10/14/10-groundbreaking-women-scientists-written-off-by-history/. Accessed 06 October 2017.
+
+Johnson, L. (2018). CWP at physics.UCLA.edu // Chien-Shiung Wu.
+Cwp.library.ucla.edu. Retrieved 21 February 2018, from
+http://cwp.library.ucla.edu/Phase2/Wu,_Chien_Shiung@841234567.html Parity |
+particle physics. (2018). Encyclopedia Britannica. Retrieved 21 February 2018,
+from https://www.britannica.com/science/parity-particle-physics  
+
 # Photo
 http://www.history.com/images/media/slideshow/women-in-science-and-health/chien-shiung-wu.jpg
+http://www.uwastudentguild.com/wp-content/uploads/2017/03/20-Chien-Shiung-Wu.jpeg

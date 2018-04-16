@@ -1,8 +1,9 @@
 # Name  
-Miranda Cheng  
-  
+Miranda Cheng
+
 # Textbook  
-Theoretical Physics and Astrophysics, Ginzberg, 1st edition  
+Theoretical Physics and Astrophysics, Ginzberg, 1st edition
+Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition, Chapter 37
   
   
 # Description  

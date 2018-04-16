@@ -2,6 +2,8 @@
 Deepto Chakrabarty
 
 # Textbook
+Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition, Chapter 24 
+Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition, Chapter 13
 
 # Description
 "In 1996, Prof. Chakrabarty was awarded the Ph.D. in Physics from the California Institute of Technology, following two years at the Lawrence Berkeley National Laboratory (1988-90) as a staff Physicist working on the Berkeley Automated Supernova Search. Prior to that, he completed his S.B. in Physics at MIT, in 1988.

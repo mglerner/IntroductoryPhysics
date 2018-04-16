@@ -2,9 +2,13 @@
 Qiudong Wang
 
 # Textbook
-Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition, Chapter 13
+Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition, Chapter 13 
 
 # Description
 Qiudong Wang, mathematical physicist, found an infinite-series
 solution to the generalized "n-body" problem, which is important in
 predicting the motions of planetary systems.
+
+# Photo
+http://math.arizona.edu/~people-photos/dwang_color_150x210.jpg
+

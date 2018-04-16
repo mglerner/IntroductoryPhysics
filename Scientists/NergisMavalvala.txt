@@ -1,6 +1,9 @@
 # Name
 Nergis Mavalvala
 #Textbook
+Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition, Chapter 20 
+Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition, Chapter 36
+
 #Contributors
 Geneva Bedell
 

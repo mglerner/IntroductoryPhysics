@@ -1,15 +1,12 @@
 #Name
-
 Sylvester James Gate
 
 #Textbook
-
-Knight, College Physics: A Strategic Approach, 2nd Edition, chapter 27, section 8
-
+Knight, College Physics: A Strategic Approach, 2nd Edition, chapter 27, section 8 
+Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition, Chapter 39
 #Contributors
 
 #Description
-
 Sylvester Gates is an American theoretical physicists for the Ford Foundation
 Professor at Brown University. Gates has received many accolades for his work
 including being a member of the National Academy of Sciences and receiving the

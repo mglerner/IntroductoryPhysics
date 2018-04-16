@@ -2,18 +2,12 @@
 Michio Katu
 
 # Textbook  
-Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition, Chapter 28  
+Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition, Chapter 37
   
 # Contributors  
 Yuyu Zhang
 
-  
-
-  
-
 # Description
-
-  
 Professor Michio Kaku, born in 1947, is a theoretical physicist, futurist, and
 popularizer of science. He is one of the co-founder of string field theory, a
 branch of string theory, which intends to unite Albert Einstein's earlier
@@ -26,15 +20,12 @@ him a well-known public figure. He has made multiple appearance on TV programs
 and film. A fun fact about him is that in 2016, he appeared in a TV commercial
 for Turbo Tax. He has spent majority of his academic career teaching
 Theorectical Physics at the City College of New York.
-
   
 
 # Sources  
 Michio Kaku Biolography (April 2,2014) Retrived from
 <https://www.biography.com/people/michio-kaku-21429817> access date February
 18, 2018)
-
-  
 
 # Photo  
 https://innotechtoday.com/wp-content/uploads/2017/03/Micio-new-2.jpg

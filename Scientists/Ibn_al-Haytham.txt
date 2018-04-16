@@ -2,14 +2,9 @@
 Ibn al-Haytham  
   
 # Textbook  
-Knight, College Physics: A Strategic Approach, 2nd Edition, Chapter 18  
-  
-# Textbook  
-  
-  
-# Textbook  
-  
-  
+Knight, College Physics: A Strategic Approach, 2nd Edition, Chapter 18
+Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition, Chapter 13
+
 # Contributors  
   
   

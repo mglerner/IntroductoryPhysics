@@ -2,13 +2,7 @@
 Tsung-Dao Lee  
   
 # Textbook  
-Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition, Chapter 42, Section 2  
-  
-# Textbook  
-  
-  
-# Textbook  
-  
+Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition, Chapter 42, Section 2
   
 # Contributors  
 Khai Nguyen  

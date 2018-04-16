@@ -2,13 +2,11 @@
 C.V. Raman  
   
 # Textbook  
-Knight, College Physics: A Strategic Approach, 2nd Edition, Chapter 18, section 1  
-  
-# Textbook  
-  
+Knight, College Physics: A Strategic Approach, 2nd Edition, Chapter 18, section 1
+Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition, Chapter 22 
+Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition, Chapter 24
   
 # Contributors  
-  
   
 # Description  
 Sir Chandrasekhara Venkata Raman was the first Indian Physicist to win the
@@ -31,7 +29,7 @@ molecules. Raman effect was an important discovery because after its
 discovery, physicists used this technique to study the vibration and rotation
 of molecules. By the late 1930s, the Raman effect was a principal method of
 chemical analysis because Raman spectroscopy could be easily used to solid,
-liquid, gas and aqueous solutions.  
+liquid, gas and aqueous solutions.
   
 # Sources  
 C.V. Raman The Raman Effect - Landmark. (n.d.). Retrieved from

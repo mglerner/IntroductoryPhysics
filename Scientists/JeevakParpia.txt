@@ -2,6 +2,8 @@
 Jeevak Parpia
 
 # Textbook
+Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition, Chapter 18 
+Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition, Chapter 37
 
 # Description
 Chair, Department of Physics, Cornell University, Ithaca NY.

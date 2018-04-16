@@ -3,6 +3,7 @@ Arthur Walker Jr.
   
 # Textbook  
 Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition, Chapter 19
+Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition, Chapter 24
   
 # Description  
 Arthur Bertram Cuthbert Walker Jr. (1936-2001) was a solar physicist and a

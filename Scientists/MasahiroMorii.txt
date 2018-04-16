@@ -2,11 +2,22 @@
 Masahiro Morii
 
 # Textbook
+Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition, Chapter 42
 
 # Description
+Masahiro Morii is an experimental physicist working on studies of
+elementary particles and their interactions. He is currently involved
+in the ATLAS experiment at the Large Hadron Collider at CERN. The
+experiment is anticipated to uncover the origin of the electroweak
+symmetry breaking, and has a great potential for discovering new
+physics beyond the Standard Model.
 
-"Masahiro Morii is an experimental physicist working on studies of elementary particles and their interactions. He is currently involved in the ATLAS experiment at the Large Hadron Collider at CERN. The experiment is anticipated to uncover the origin of the electroweak symmetry breaking, and has a great potential for discovering new physics beyond the Standard Model.
-Prof. Morii has also been involved in the LUX Dark Matter Experiment, which operates in the Sanford Underground Laboratory at Homestake, SD. The experiment uses 300 kg of liquid xenon to detect the Dark Matter - an invisible form of matter which make up 4/5 of the mass of the Universe."
+Prof. Morii has also been involved in the LUX Dark Matter Experiment,
+which operates in the Sanford Underground Laboratory at Homestake,
+SD. The experiment uses 300 kg of liquid xenon to detect the Dark
+Matter - an invisible form of matter which make up 4/5 of the mass of
+the Universe.
+
 
 # Sources
 https://www.physics.harvard.edu/people/facpages/morii

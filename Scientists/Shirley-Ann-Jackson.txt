@@ -1,19 +1,13 @@
 # Name
-
 Shirley Ann Jackson
 
 # Textbook
-
 Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition, Chapter 22, section 1
-
-# Textbook
-
-# Textbook
+Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition, Chapter 30
 
 # Contributors
 
 # Description
-
 Shirley Ann Jackson is an African-American physicist born in Washington D.C., on August 5th, 1946. She was the first African American women to get a PhD from MIT. Dr.Jackson studied hadrons as a research associate at the Fermi National Accelerator Laboratory in Batavia, Illinois. She was also a visiting scientist at CERN in Switzerland where she worked on theories relating to elementary particles. She was a part of the Theoretical Physics Research Department at AT&T Bell Laboratories in 1976 and studied materials used in the semiconductor industry. She also researched on the optical and electronic properties of two-dimensional and quasi-two dimensional systems. She made contributions to the knowledge of charged density waves in layered compounds and optical and electronic properties of semiconductor strained-layer superlattices. Since her postgraduate studies, she has been active in initiatives to increase African American participation in science and math. She has been serving as the president of Rensselear
 Polytechnic Institute since July 1, 1999.
 
@@ -26,13 +20,11 @@ dimensional systems.
 
 
 # Sources
-
 [https://en.wikipedia.org/wiki/Shirley_Ann_Jackson](https://en.wikipedia.org/wiki/Shirley_Ann_Jackson) 
 [http://www.nytimes.com/ref/college/faculty/coll_pres_jacksonbio.html](http://www.nytimes.com/ref/college/faculty/coll_pres_jacksonbio.html)
 [Diaz, S. (n.d.). Jackson, Shirley Ann.](http://www.blackpast.org/aah/jackson-shirley-ann-1946)
 
 
 # Photo
-
 https://cdn-blog.adafruit.com/uploads/2015/02/Shirley-Ann-Jackson.jpg
 https://thenotesofe.files.wordpress.com/2015/03/jackson_8x10.jpg

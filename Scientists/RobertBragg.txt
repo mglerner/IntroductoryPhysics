@@ -1,17 +1,10 @@
 # Name  
-Robert Bragg  
+Robert Bragg 
   
 # Textbook  
-Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition, Chapter 28  
-  
-# Textbook  
-  
-  
-# Textbook  
-  
+Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition, Chapter 22
   
 # Contributors  
-  
   
 # Description  
 Robert Bragg was a African American born in Jacksonville , Florida in 1919 .
@@ -33,6 +26,7 @@ phase transformations at high temperatures as these materials are converted to
 graphite.  
   
 # Sources  
-http://www.math.buffalo.edu/mad/physics/bragg_roberth.html  
-  
+http://www.math.buffalo.edu/mad/physics/bragg_roberth.html
 
+# Photo
+http://www.thehistorymakers.org/sites/production/files/styles/bio_photo/public/Bragg_Robert_wm.png?itok=tyXqi0F

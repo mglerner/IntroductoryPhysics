@@ -2,6 +2,9 @@
 Chen-Ning Yang
 # Textbook
 Halliday Resnick and Walker, 8th edition, Chapter 46, section 6
+Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition, Chapter 18 
+Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition, Chapter 42
+
 #Contributors
 
 

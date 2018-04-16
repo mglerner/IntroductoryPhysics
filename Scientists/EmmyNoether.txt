@@ -2,7 +2,8 @@
 Emmy Noether
 
 # Textbook
-Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition, Chapter 10
+Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition, Chapter 9
+Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition, Chapter 10 
 
 # Contributor
 Mai Hoang
@@ -32,12 +33,10 @@ the theory to be correct, this conservation must be observable in experiments.
   
 
 # Sources
-
 https://en.wikipedia.org/wiki/Emmy_Noether
 
   
 
 # Photo
-
 https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Noether.jpg/330px-Noether.jpg
 

@@ -1,17 +1,12 @@
 # Name  
-E. C. George Sudarshan  
+E. C. George Sudarshan
   
 # Textbook  
-Knight, College Physics: A Strategic Approach, 2nd Edition, Chapter 27, Nuclear Fission  
-  
-# Textbook  
-  
-  
-# Textbook  
-  
-  
+Knight, College Physics: A Strategic Approach, 2nd Edition, Chapter 27, Nuclear Fission
+Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition, Chapter 37
+Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition, Chapter 42 
+
 # Contributors  
-  
   
 # Description  
 E. C. George Sudarshan is a theoretical physicist born in Pallam, Kerala. He

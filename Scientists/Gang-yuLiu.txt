@@ -2,7 +2,8 @@
 Gang-yu Liu  
   
 # Textbook  
-Knight, College Physics: A Strategic Approach, 2nd Edition, Chapter 28, section 8  
+Knight, College Physics: A Strategic Approach, 2nd Edition, Chapter 28, section 8
+Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition, Chapter 5 
   
 # Contributors  
   

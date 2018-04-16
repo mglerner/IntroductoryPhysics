@@ -1,8 +1,8 @@
 # Name  
-Ruby Payne-Scott  
+Ruby Payne-Scott 
   
 # Textbook  
-Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition, Chapter 15  
+Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition, Chapter 34
   
 # Contributors  
 Megan Hedinger  

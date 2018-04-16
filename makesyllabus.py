@@ -146,7 +146,6 @@ def add_scientist_slide(prs,scientist,verbose=False):
     """
     for photos in scientist._scientistdict['Photo']:
         for photo in photos:
-            continue
             img_path = 'test.jpg'
             if verbose:
                 print(f'Grabbing image: {photo}')

@@ -1,6 +1,7 @@
 # Name
 Raymond Ashoori
 # Textbook
+Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition, Chapter 38
 
 # Description
 "A graduate of the University of California at San Diego (B.A. 1984) and Cornell University (Ph.D. 1991), Professor Ashoori joined the MIT faculty in 1993, after serving as a postdoctoral member of the technical staff at AT&T Bell Laboratories. He was promoted to Associate Professor in 1998 and full Professor in July 2004."

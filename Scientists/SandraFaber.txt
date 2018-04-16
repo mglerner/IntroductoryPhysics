@@ -1,7 +1,10 @@
 # Name
 Sandra Faber
+
 # Textbook
-Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition, Chapter 40
+Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition, Chapter 13
+Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition, Chapter 24
+
 # Contributors
 
 
@@ -9,3 +12,6 @@ Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern P
 Sandra Moore Faber (born December 28, 1944) is a University Professor of Astronomy and Astrophysics at the University of California, Santa Cruz, and works at the Lick Observatory. She has made important discoveries linking the brightness of galaxies to the speed of stars within them and was the co-discoverer of the Faber–Jackson relation. Faber was also instrumental in designing the Keck telescopes in Hawaii. Faber studied at Swarthmore College, majoring in Physics and minoring in Mathematics and Astronomy. She earned her B.A. in 1966. Soon after she went on to earn her Ph.D. at Harvard University in 1972, where she studied Optical Observational Astronomy. During this time the only observatory open to her was the Kitt Peak National Observatory, which had inadequate technology for the complexity of her thesis. She is a woman.
 # Sources
 https://en.wikipedia.org/wiki/Sandra_Faber
+
+# Photo
+https://upload.wikimedia.org/wikipedia/commons/6/61/Sandra-faber-barack-obama.png
