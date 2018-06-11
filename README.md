@@ -1146,6 +1146,8 @@ for f in *.html; do html2text < $f > ${f:r}.md; done
 
 TODO
 * Add more textbooks
+  * Specifically, since I'm switching to Matter and Interactions, add that.
+  * This will likely require fixing all of the stuff that isn't really factored in terms of where textbooks, powerpoint slides, etc. actually live.
 * Focus on 2nd semester
 * Make everyone go through the form
 * Fix mixup between calc-based and algebra-based

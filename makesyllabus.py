@@ -8,7 +8,9 @@ from pptx import Presentation
 from pptx.util import Inches
 
 known_textbooks = ['Knight, Physics for Scientists and Engineers: A Strategic Approach with Modern Physics, 3rd Edition',
-                   'Knight, College Physics: A Strategic Approach, 2nd Edition']
+                   'Knight, College Physics: A Strategic Approach, 2nd Edition',
+                   'Matter and Interactions 4th Edition'
+]
 
 
 def scientistparts(fname):
@@ -222,6 +224,21 @@ def makeKnightCalc3rd():
         output_html = textbook.to_html(escape=False)
 
     f = open('knight.html','w')
+    f.write(output_html)
+    f.close()
+    return(output_html)
+
+def makeMandI4th():
+    """Creates all of the PPT files as a side-effect, returns the HTML
+    """
+    scientists = [Scientist(fname) for fname in glob.glob('Scientists/*.txt')]
+    textbook = maketextbook('Textbooks/MandI4thEdition.csv',
+                            textbookname=known_textbooks[1],
+                            scientists=scientists)
+    with pd.option_context('display.max_colwidth', -1):
+        output_html = textbook.to_html(escape=False)
+
+    f = open('mandi.html','w')
     f.write(output_html)
     f.close()
     return(output_html)
