@@ -60,7 +60,7 @@ If you like, you can also make a file directly yourself. Here is an
 
 * Including links to pictures really helps!
 
-I have used tow versions of the assignment. First, when I'm trying to
+I have used two versions of the assignment. First, when I'm trying to
 generate new content:
 
 >The content of this particular course (and this particular
