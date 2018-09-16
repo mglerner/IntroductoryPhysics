@@ -60,7 +60,8 @@ If you like, you can also make a file directly yourself. Here is an
 
 * Including links to pictures really helps!
 
-Here's the actual script/assignment I use in class:
+I have used tow versions of the assignment. First, when I'm trying to
+generate new content:
 
 >The content of this particular course (and this particular
 textbook) has pretty much focused on ideas developed by white,
@@ -102,7 +103,51 @@ your name included in the text, or to leave it out if you don't want
 it included. Please remember to cite your sources.
 
 
+This year, I'm switching textbooks, and have a slightly different
+assignment:
 
+>The content of this particular course (and this particular
+textbook) has pretty much focused on ideas developed by white,
+European men. In fact, working through a common syllabus with a
+standard textbook will have you looking at a progression of
+Physicists all of whom (to within rounding error) look like
+Newton. I'd like to say that's a historical accident, but it's actually
+more complicated than that, and perhaps not always so benign as the
+word "accident" might imply.
+
+>Your first task in this assignment is to broaden this focus by writing a
+paragraph or so about someone who's made a significant contribution to
+Physics and who is not a white, European male, and to place that
+paragraph in our current textbook. You can choose a contemporary or a
+historical figure. Try to find someone you don't already know about -
+or perhaps someone you do know about but think should be better
+known. Your paragraphs should include telling us who the person is,
+the contribution(s), the significance of the contribution(s),
+something about that person's life and how it impacted that person's
+experience that led to his or her discoveries. **NOTE:** as discussed
+in class, the main focus this year is figuring out which scientists to
+place into our current textbook (Matter and Interactions), and where
+to place them. Thus, you're **strongly** encouraged to take
+information either from the current collection of scientists on
+github, or from David Rosengrant's collection of
+[STEM Heroes](https://www.usfsp.edu/rosengrant-stem-lab/physics-and-stem-heroes/). Please
+choose one of those, check it for plagiarism, and continue with the assignment.
+
+> Next, looking through the table of contents and/or index of your
+textbook, tell us where the person's contributions might be placed in
+this textbook (the textbook covers a very large amount of Physics, so
+you may be able to answer this part even if we won't cover the
+relevant contributions this semester). Find an online picture of the
+person, and record a link to that picture.
+
+> Once you have all of that information, type it into the online
+[form](https://mglerner.github.io/pages/nonnewtonian-scientists.html),
+and enter the resulting information into the assignment on Moodle.
+
+> Choose one that's already done, check it for plagiarism, find at
+  least one new image or fact, place it in the new textbook. For extra
+  credit, do a new scientist. Use MLA.
+  
 
 Here's the current version, which obviously needs more scientists
 added:
