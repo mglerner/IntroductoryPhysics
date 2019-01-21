@@ -1,4 +1,4 @@
-# IntroductoryPhysics
+# Decolonising Introductory Physics
 
 **TLDR for students:** Research a scientist who doesn't look like Isaac Newton, fill out the [form](https://mglerner.github.io/pages/nonnewtonian-scientists.html), email me the results <mglerner@protonmail.com>, and your scientist will appear in the textbook links below!
 
@@ -144,9 +144,9 @@ person, and record a link to that picture.
 [form](https://mglerner.github.io/pages/nonnewtonian-scientists.html),
 and enter the resulting information into the assignment on Moodle.
 
-> Choose one that's already done, check it for plagiarism, find at
+> TLDR: Choose one that's already done, check it for plagiarism, find at
   least one new image or fact, place it in the new textbook. For extra
-  credit, do a new scientist. Use MLA.
+  credit, do a second new scientist. Use MLA.
   
 
 Here's the current version, which obviously needs more scientists
