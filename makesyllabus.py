@@ -13,7 +13,7 @@ known_textbooks = ['Knight, Physics for Scientists and Engineers: A Strategic Ap
 ]
 
 
-def scientistparts(fname):
+def scientistparts(fname_or_txt):
     """The scientist file looks like
     # Name
     Margaret Murnane
@@ -33,7 +33,11 @@ def scientistparts(fname):
     """
     item_name,content = None,[]
 
-    for line in open(fname):
+    try:
+        info = open(fname_or_txt)
+    except OSError:
+        info = fname_or_txt.split('\n')
+    for line in info:
         if line.startswith('#'):
             if item_name is not None:
                 yield (item_name,[i for i in content if i.strip()])
@@ -62,7 +66,12 @@ class Scientist:
                 self._scientistdict[k].append(v)
             else:
                 self._scientistdict[k] = [v]
-        self.name = self._scientistdict['Name'][0][0].strip()
+        try:
+            self.name = self._scientistdict['Name'][0][0].strip()
+        except KeyError:
+            print('could not find name. Found these parts:')
+            print(self._scientistdict.keys())
+            raise
     def matchestextbook(self,textbookname,verbose=False):
         # This is an iterator, yielding matches.
         #
