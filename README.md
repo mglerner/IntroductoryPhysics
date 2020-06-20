@@ -1190,11 +1190,17 @@ for f in *.html; do html2text < $f > ${f:r}.md; done
 ```
 
 TODO
+* Make everyone go through the form
 * Add more textbooks
   * Specifically, since I'm switching to Matter and Interactions, add that.
   * This will likely require fixing all of the stuff that isn't really factored in terms of where textbooks, powerpoint slides, etc. actually live.
+* Consider restructuring to make adding more textbooks easier.
+  * Maybe the work of adding a textbook comes on the professor side (or, at least, is less frequent).
+  * Adding the textbook gives a mapping between topics and chapters.
+  * Filling out The Form has students select a chapter and then a list of topics.
+  * That topic selection can be mapped, behind the scenes, to the map of a new textbook.
+  * Maaaaayyyybeeee I should consider a real database?!
 * Focus on 2nd semester
-* Make everyone go through the form
 * Fix mixup between calc-based and algebra-based
    * Here, note for example that Sylvester James Gate is listed in 2nd
      edition, but is showing up in 3rd
