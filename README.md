@@ -1206,3 +1206,8 @@ TODO
      edition, but is showing up in 3rd
    * Also note that I may have turned some 2nd edition ones into 3rd
      by accident, so just check the TOC.
+
+# Mastodon verification
+
+This is me on <a rel="me" href="https://mastodon.cloud/@mglerner">Mastodon</a>.
+     
