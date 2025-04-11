@@ -1,5 +1,7 @@
 # Decolonising Introductory Physics
 
+**NOTE: based on feedback from potential other users, we are currently updating the code to work as a Wordpress plugin, rather than as a series of Python scripts. This work is taking longer than expected. I am still using the code in my own classes, so please feel encouraged to contact me directly if you'd like to use it before it's properly released.**
+
 **TLDR for students:** Research a scientist who doesn't look like Isaac Newton, fill out the [form](https://mglerner.github.io/pages/nonnewtonian-scientists.html), email me the results <mglerner@protonmail.com>, and your scientist will appear in the textbook links below!
 
 **TLDR for teachers:** Check out the textbook below. It's organized by
